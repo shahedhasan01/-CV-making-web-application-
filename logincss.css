@@ -1,0 +1,34 @@
+
+#mid {
+    text-align: center;  
+font-family: 'Segoe UI';
+    float: left;
+    background-image: url(Background.png);
+    height: 620px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+
+#nav {
+    font-family: 'Segoe UI';
+    width: 350px;
+    height: 620px;
+    float: left;
+    padding: 10px;
+    background-image: url(b.png);
+    color: white;
+    text-align: center;
+}
+ 
+#container {
+    width:800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+     
+}
+
+
+
