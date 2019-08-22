@@ -163,26 +163,6 @@ $conn=mysqli_connect($host,$user,$password,$dbname);
  }
 
 
-
-$_SESSION["id"]=" ";
-codeq=" SELECT id FROM `user`";
-check=mysqli_query($conn,$codeq);
-
-
-$expid=mysqli_insert_id($conn);
-
-codei=INSERT INTO `user` (`code`) VALUES ('')";
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 ?>
